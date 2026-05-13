@@ -1,0 +1,8 @@
+L1 =[] or list()
+L2 = [1,2,3,4,5,6] or list((1,2,3,4,5,6))
+L3 = ["c " , "java" , "python"] or list(("c","java","python"))
+L4 = [123,"python",3.7] or list((123 , "python", 3.7))
+print(L1)
+print(L2)
+print(L3)
+print(L4)
